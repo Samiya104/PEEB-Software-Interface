@@ -1,0 +1,8 @@
+{
+    "files": [
+        "widget.py",
+        "form.ui",
+        "arduino_flasher.py",
+        "light_data_collection.py"
+    ]
+}
